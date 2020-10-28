@@ -1,5 +1,8 @@
 # vue-basicscroll-example
 
+## preview
+<img src="./preview/vue-basicscroll-example.gif">
+
 ## Project setup
 ```
 npm install
